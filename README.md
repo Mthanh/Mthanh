@@ -9,6 +9,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanh&count_private=true&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthanh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mthanh2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mthanh2602" height="30" width="40" /></a>
