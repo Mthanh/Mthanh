@@ -13,6 +13,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mthanh&theme=highcontrast&show_icons=true&count_private=true)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mthanh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
