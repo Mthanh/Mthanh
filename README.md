@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, IOS**
 
-- 💬 Ask me about **C, Python, Opencv**
+- 💬 Ask me about **C/C++, Python, Opencv**
 
 - 📫 How to reach me **mthanh2602@gmail.com**
 
