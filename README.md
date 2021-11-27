@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mthanh2602@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanh&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthanh&count_private=true&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
