@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">Embedded and Backend Systems Engineer</h3>
 
-- 🌱 I’m currently learning **AWS, IOS**
+- 🌱 I’m currently learning **AWS, IOS (Swift)**
 
-- 💬 Discuss with me about **C/C++, Python, Opencv**
+- 📚 My main languages **C/C++, Python, Opencv**
+
+- 🛠 I have some experiences in **Linux Embedded, Qt5**
+
+- 📘 I also have a little knowledge of **Javascript, Node.js, Java, C#, ...** 
 
 - 📫 How to reach me **mthanh2602@gmail.com**
 
